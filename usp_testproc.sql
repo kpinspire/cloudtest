@@ -13,5 +13,5 @@ ALTER PROCEDURE [dbo].[TEST_PROC]
 AS
 BEGIN
 	DECLARE @ctr INT = 0
-	PRINT 'This is not working'
+	PRINT 'This sworking'
 END
