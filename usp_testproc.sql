@@ -2,6 +2,7 @@ SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
 GO
+set NOCOUNT ON
 -- =============================================
 -- Author:		<Author,,Name>
 -- Create date: <Create Date,,>
